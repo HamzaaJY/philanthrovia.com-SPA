@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemaps tell Google where your content is
+Sitemap: https://www.thephilanthroviagroup.com/sitemap.xml
